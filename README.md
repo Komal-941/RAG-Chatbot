@@ -8,7 +8,7 @@ It allows you to **upload PDFs and chat securely** with your data in real-time.
 ---
 
 ## 📽️ Demo Video  
-🎥 [Watch Demo Here](https://drive.google.com/file/d/1XufYBo-QcDpRk-eItXikut4MkWEDTlDl/view?usp=drive_link)  
+🎥 [Watch Demo Here](https://drive.google.com/file/d/1XufYBo-QcDpRk-eItXikut4MkWEDTlDl/view?usp=sharing)  
 
 ---
 
