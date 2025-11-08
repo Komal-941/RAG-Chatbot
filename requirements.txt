@@ -1,0 +1,69 @@
+# =======================
+# LangChain Core & Community
+# =======================
+langchain
+langchain-core
+langchain-community
+
+
+# =======================
+# Hugging Face Integration
+# =======================
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers   # for embeddings (like all-MiniLM, mpnet, etc.)
+
+
+# =======================
+# Vector Stores
+# =======================
+faiss-cpu              # FAISS (local vector store)
+chromadb               # ChromaDB (another popular local vector store)
+pinecone-client        # Pinecone (cloud vector DB, optional)
+weaviate-client        # Weaviate (optional, if you plan to try it)
+
+
+# =======================
+# Document Loaders & Parsers
+# =======================
+pypdf                  # PDF document loader
+python-docx            # for Word (.docx) files
+openpyxl               # for Excel (.xlsx)
+unstructured           # for handling multiple doc formats (optional but powerful)
+beautifulsoup4         # for HTML / Web scraping
+requests               # fetch web pages / APIs
+
+
+# =======================
+# Text Splitters / Retrieval
+# (already part of langchain-core / community, no extra installs needed)
+
+
+# =======================
+# Environment & Utils
+# =======================
+python-dotenv          # manage API keys
+numpy
+pandas
+scikit-learn
+
+
+# =======================
+# LangChain Groq Integration
+# =======================
+langchain-groq
+
+
+# =======================
+# Streamlit (UI)
+# =======================
+streamlit
+
+
+# =======================
+# Optional (nice-to-have)
+# =======================
+tiktoken               # tokenizer for OpenAI models
+nltk                   # text preprocessing (stopwords, stemming, etc.)
+spacy                  # advanced NLP tasks (optional)
